@@ -4,18 +4,25 @@ A zombie shooter game with weapon upgrades, created with Pygame.
 
 ## Setup
 
-1. Create a virtual environment:
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/zombie-apocalypse-survival.git
+cd zombie-apocalypse-survival
+```
+
+2. Create a virtual environment:
 ```
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-2. Install requirements:
+3. Install requirements:
 ```
 pip install -r requirements.txt
 ```
 
-3. Run the game:
+4. Run the game:
 ```
 python zombie.py
 ```
@@ -65,3 +72,4 @@ This will create all necessary images and sound files in the assets directory.
 ## Credits
 
 Created as a learning project for game development with Pygame.
+Part of my submission for the Amazon Q CLI event.
