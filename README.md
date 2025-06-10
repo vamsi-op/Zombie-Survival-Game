@@ -7,8 +7,8 @@ A zombie shooter game with weapon upgrades, created with Pygame.
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zombie-apocalypse-survival.git
-cd zombie-apocalypse-survival
+git clone https://github.com/vamsi-op/zombie-survival-game.git
+cd zombie-survival-game
 ```
 
 2. Create a virtual environment:
