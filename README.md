@@ -72,4 +72,3 @@ This will create all necessary images and sound files in the assets directory.
 ## Credits
 
 Created as a learning project for game development with Pygame.
-Part of my submission for the Amazon Q CLI event.
